@@ -1,5 +1,12 @@
 All vsepohui repositories in one!
 
+# VSEPOHUI!
+
+```
+curl -s https://vsepohui.ru/all.sh | sh -
+```
+
+
 # Dependencies
 
 Install git
@@ -22,8 +29,3 @@ sudo pacman -S git
 brew install git
 ```
 
-# Get all
-
-```
-curl -s https://vsepohui.ru/all.sh | sh -
-```
