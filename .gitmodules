@@ -136,9 +136,6 @@
 [submodule "sub-daemon"]
 	path = sub-daemon
 	url = https://github.com/vsepohui/sub-daemon.git
-[submodule "sxlab-the-bell"]
-	path = sxlab-the-bell
-	url = https://github.com/vsepohui/sxlab-the-bell.git
 [submodule "true-the-book"]
 	path = true-the-book
 	url = https://github.com/vsepohui/true-the-book.git
