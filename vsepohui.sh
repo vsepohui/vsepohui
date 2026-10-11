@@ -2,10 +2,12 @@
 
 cd "$(dirname "$0")"
 SCRIPT_NAME=$(basename "$0")
-DEF_SCRIPT="all.sh"
+DEF_SCRIPT="vsepohui.sh"
+
 
 if [ -d ".git" ]; then
-	if [ -f "all.sh" ]; then
+	if [ -f "$DEF_SCRIPT" ]; then
+		
 		git submodule update --init
 		git pull
 		exit
