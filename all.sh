@@ -4,6 +4,14 @@ cd "$(dirname "$0")"
 SCRIPT_NAME=$(basename "$0")
 DEF_SCRIPT="all.sh"
 
+if [ -d ".git" ]; then
+	if [ -f "all.sh" ]; then
+		git submodule update --init
+		git pull
+		exit
+	fi
+fi	
+
 
 if [ "$SCRIPT_NAME" == "$DEF_SCRIPT" ]; then
 	git submodule update --init
