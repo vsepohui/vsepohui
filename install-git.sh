@@ -1,13 +1,14 @@
-#!/bin/bash
+#!/bin/sh
 
 lowercase(){
     echo "$1" | sed "y/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/"
 }
 
-OS=`lowercase \`uname\``
-OS_NAME=`uname -r`
+OS=$(uname -a)
+OS_NAME=$(uname -r)
 
-if [[ `echo $OS | grep 'linux'` ]]; then
+
+if [[ `echo $OS | grep -i linux` ]]; then
         if [ -f /etc/SuSE-release ] ; then
             zypper install git
         elif [ -f /etc/debian_version ] ; then
@@ -25,12 +26,12 @@ if [[ `echo $OS | grep 'linux'` ]]; then
 				brew install git				
 			fi
         fi
-elif [[ "$OS" == "Mac" ]]; then
+elif [ `echo $OS | grep Mac` ]; then
 		brew install git
-elif [[ "$OS" == "freebsd"* ]]; then
+elif [ `echo $OS | grep FreeBSD` ]; then
         pkg install git
-elif [[ "$OS" == "openbsd"* ]]; then
+elif [ `echo $OS | grep OpenBSD` ]; then
         pkg_add git
 else
-	echo "Unknown sOS $OSTYPE"
+	echo "Unknown OS $OS"
 fi
