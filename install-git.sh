@@ -17,7 +17,11 @@ if [[ `echo $OS | grep 'linux'` ]]; then
         elif [ `echo $OS_NAME | grep arch` ] ; then 
 			pacman -Sy git
 		else 
-			echo "Unknown OS $OS_NAME"
+			if [ `which apt` ] ; then
+				apt install -y git
+			elif [ `which pacman` ] ; then
+				pacman -Sy git
+			fi
         fi
 elif [[ "$OS" == "Mac" ]]; then
 		brew install git
