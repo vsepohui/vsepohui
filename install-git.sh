@@ -6,9 +6,9 @@ lowercase(){
 
 OS=$(uname -a)
 OS_NAME=$(uname -r)
+IS_LINUX=$(echo $OS | grep -i linux)
 
-
-if [[ `echo $OS | grep -i linux` ]]; then
+if [ "$IS_LINUX" ]; then
         if [ -f /etc/SuSE-release ] ; then
             zypper install git
         elif [ -f /etc/debian_version ] ; then
