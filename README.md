@@ -17,7 +17,7 @@ curl -s https://vsepohui.ru | sh
 sudo apt install git
 ```
 
-### ArcLinux / Manjaro
+### Arch Linux / Manjaro
 
 ```
 sudo pacman -S git
