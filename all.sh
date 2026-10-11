@@ -1,5 +1,6 @@
 #!/bin/sh
 
+cd "$(dirname "$0")"
 SCRIPT_NAME=$(basename "$0")
 DEF_SCRIPT="all.sh"
 
