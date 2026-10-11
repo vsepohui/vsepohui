@@ -1,0 +1,168 @@
+[submodule "Accessor"]
+	path = Accessor
+	url = https://github.com/vsepohui/Accessor.git
+[submodule "alexing-poetry-generator"]
+	path = alexing-poetry-generator
+	url = https://github.com/vsepohui/alexing-poetry-generator.git
+[submodule "anarchy-press"]
+	path = anarchy-press
+	url = https://github.com/vsepohui/anarchy-press.git
+[submodule "beat-machine"]
+	path = beat-machine
+	url = https://github.com/vsepohui/beat-machine.git
+[submodule "bhagti-vedanta"]
+	path = bhagti-vedanta
+	url = https://github.com/vsepohui/bhagti-vedanta.git
+[submodule "book-the-pouetics"]
+	path = book-the-pouetics
+	url = https://github.com/vsepohui/book-the-pouetics.git
+[submodule "CHacker"]
+	path = CHacker
+	url = https://github.com/vsepohui/CHacker.git
+[submodule "circle-chords"]
+	path = circle-chords
+	url = https://github.com/vsepohui/circle-chords.git
+[submodule "counter"]
+	path = counter
+	url = https://github.com/vsepohui/counter.git
+[submodule "Crypted-Note"]
+	path = Crypted-Note
+	url = https://github.com/vsepohui/Crypted-Note.git
+[submodule "Crypter"]
+	path = Crypter
+	url = https://github.com/vsepohui/Crypter.git
+[submodule "def"]
+	path = def
+	url = https://github.com/vsepohui/def.git
+[submodule "fast-cpp-hashes"]
+	path = fast-cpp-hashes
+	url = https://github.com/vsepohui/fast-cpp-hashes.git
+[submodule "Format.audio.JSON"]
+	path = Format.audio.JSON
+	url = https://github.com/vsepohui/Format.audio.JSON.git
+[submodule "fuckoff-the-game"]
+	path = fuckoff-the-game
+	url = https://github.com/vsepohui/fuckoff-the-game.git
+[submodule "guess-number"]
+	path = guess-number
+	url = https://github.com/vsepohui/guess-number.git
+[submodule "Hacker"]
+	path = Hacker
+	url = https://github.com/vsepohui/Hacker.git
+[submodule "jml"]
+	path = jml
+	url = https://github.com/vsepohui/jml.git
+[submodule "JSHacker"]
+	path = JSHacker
+	url = https://github.com/vsepohui/JSHacker.git
+[submodule "kernel"]
+	path = kernel
+	url = https://github.com/vsepohui/kernel.git
+[submodule "kosherny"]
+	path = kosherny
+	url = https://github.com/vsepohui/kosherny.git
+[submodule "kosherny-dump"]
+	path = kosherny-dump
+	url = https://github.com/vsepohui/kosherny-dump.git
+[submodule "libcrypter"]
+	path = libcrypter
+	url = https://github.com/vsepohui/libcrypter.git
+[submodule "librandom--"]
+	path = librandom--
+	url = https://github.com/vsepohui/librandom--.git
+[submodule "machine-learning-neighbor-vectors"]
+	path = machine-learning-neighbor-vectors
+	url = https://github.com/vsepohui/machine-learning-neighbor-vectors.git
+[submodule "mantra"]
+	path = mantra
+	url = https://github.com/vsepohui/mantra.git
+[submodule "math-bruteforce"]
+	path = math-bruteforce
+	url = https://github.com/vsepohui/math-bruteforce.git
+[submodule "mir"]
+	path = mir
+	url = https://github.com/vsepohui/mir.git
+[submodule "muicie_perl"]
+	path = muicie_perl
+	url = https://github.com/vsepohui/muicie_perl.git
+[submodule "music-to-cpp"]
+	path = music-to-cpp
+	url = https://github.com/vsepohui/music-to-cpp.git
+[submodule "narcolepsy"]
+	path = narcolepsy
+	url = https://github.com/vsepohui/narcolepsy.git
+[submodule "next_life"]
+	path = next_life
+	url = https://github.com/vsepohui/next_life.git
+[submodule "opiate-lepicure"]
+	path = opiate-lepicure
+	url = https://github.com/vsepohui/opiate-lepicure.git
+[submodule "perl-time-2026"]
+	path = perl-time-2026
+	url = https://github.com/vsepohui/perl-time-2026.git
+[submodule "pouet"]
+	path = pouet
+	url = https://github.com/vsepohui/pouet.git
+[submodule "pouet2"]
+	path = pouet2
+	url = https://github.com/vsepohui/pouet2.git
+[submodule "public"]
+	path = public
+	url = https://github.com/vsepohui/public.git
+[submodule "pwd-generator"]
+	path = pwd-generator
+	url = https://github.com/vsepohui/pwd-generator.git
+[submodule "Random"]
+	path = Random
+	url = https://github.com/vsepohui/Random.git
+[submodule "rootkit-bro"]
+	path = rootkit-bro
+	url = https://github.com/vsepohui/rootkit-bro.git
+[submodule "rupana"]
+	path = rupana
+	url = https://github.com/vsepohui/rupana.git
+[submodule "russian-to-translit-broswer-ext"]
+	path = russian-to-translit-broswer-ext
+	url = https://github.com/vsepohui/russian-to-translit-broswer-ext.git
+[submodule "singleton"]
+	path = singleton
+	url = https://github.com/vsepohui/singleton.git
+[submodule "spam-dictionary-base-diff"]
+	path = spam-dictionary-base-diff
+	url = https://github.com/vsepohui/spam-dictionary-base-diff.git
+[submodule "Strong-Random"]
+	path = Strong-Random
+	url = https://github.com/vsepohui/Strong-Random.git
+[submodule "sub-daemon"]
+	path = sub-daemon
+	url = https://github.com/vsepohui/sub-daemon.git
+[submodule "sxlab-the-bell"]
+	path = sxlab-the-bell
+	url = https://github.com/vsepohui/sxlab-the-bell.git
+[submodule "true-the-book"]
+	path = true-the-book
+	url = https://github.com/vsepohui/true-the-book.git
+[submodule "trunaev"]
+	path = trunaev
+	url = https://github.com/vsepohui/trunaev.git
+[submodule "tsarsky"]
+	path = tsarsky
+	url = https://github.com/vsepohui/tsarsky.git
+[submodule "vector-tracer"]
+	path = vector-tracer
+	url = https://github.com/vsepohui/vector-tracer.git
+[submodule "vsepohui.github.io"]
+	path = vsepohui.github.io
+	url = https://github.com/vsepohui/vsepohui.github.io.git
+[submodule "web-krawler"]
+	path = web-krawler
+	url = https://github.com/vsepohui/web-krawler.git
+[submodule "yahwe-music-backup"]
+	path = yahwe-music-backup
+	url = https://github.com/vsepohui/yahwe-music-backup.git
+[submodule "yahwe-the-blog"]
+	path = yahwe-the-blog
+	url = https://github.com/vsepohui/yahwe-the-blog.git
+[submodule "yahwe.ru"]
+	path = yahwe.ru
+	url = https://github.com/vsepohui/yahwe.ru.git
