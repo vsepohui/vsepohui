@@ -4,6 +4,10 @@ lowercase(){
     echo "$1" | sed "y/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/"
 }
 
+if [ `which git` ] ; then
+	exit
+fi
+
 OS=$(uname -a)
 OS_NAME=$(uname -r)
 IS_LINUX=$(echo $OS | grep -i linux)
