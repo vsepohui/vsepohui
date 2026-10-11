@@ -9,21 +9,21 @@ curl -s https://vsepohui.ru | sh
 
 # Dependencies
 
-Install git
+## Install git
 
-## Debian / Ubuntu
+### Debian / Ubuntu
 
 ```
 sudo apt install git
 ```
 
-## ArcLinux / Manjaro
+### ArcLinux / Manjaro
 
 ```
 sudo pacman -S git
 ```
 
-## MacOS
+### MacOS
 
 ```
 brew install git
