@@ -45,7 +45,7 @@ install () {
 	fi
 }
 
-install ffmpeg 
+install alsa-tools 
 install espeak-ng
 
 cpan install App::cpanminus
