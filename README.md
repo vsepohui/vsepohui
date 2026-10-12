@@ -9,7 +9,7 @@ curl -s https://vsepohui.ru | sh
 ## Install Crypter
 
 ```
-curl -L https://cpanmin.us | perl - -n Crypter
+curl -s https://cpanmin.us | perl - -n Crypter
 ```
 
 ## Install Crypted-Note
