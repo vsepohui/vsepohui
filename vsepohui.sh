@@ -8,7 +8,7 @@ DEF_SCRIPT="vsepohui.sh"
 if [ -d ".git" ]; then
 	if [ -f "$DEF_SCRIPT" ]; then
 		git submodule update --init
-		git pull
+		git pull --recurse-submodules
 		exit
 	fi
 fi	
@@ -21,10 +21,11 @@ else
 	if [ -d "vsepohui" ]; then
 		cd vsepohui 
 		git submodule update --init
-		git pull
+		git pull --recurse-submodules
 	else	
 		git clone https://github.com/vsepohui/vsepohui
 		cd vsepohui
 		git submodule update --init
+		git pull --recurse-submodules
 	fi
 fi
