@@ -49,4 +49,4 @@ install alsa-tools
 install espeak-ng
 
 cpan install App::cpanminus
-cpanm https://github.com/vsepohui/Hacker
+cpanm https://github.com/vsepohui/Hacker.git
