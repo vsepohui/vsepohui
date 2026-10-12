@@ -163,3 +163,6 @@
 [submodule "yahwe.ru"]
 	path = yahwe.ru
 	url = https://github.com/vsepohui/yahwe.ru.git
+[submodule "piped"]
+	path = piped
+	url = git@github.com:vsepohui/piped.git
