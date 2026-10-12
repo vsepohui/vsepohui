@@ -45,7 +45,7 @@ install () {
 	fi
 }
 
-install alsa-tools 
+install alsa-utils
 install espeak-ng
 
 cpan install App::cpanminus
