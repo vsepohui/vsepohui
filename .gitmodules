@@ -46,9 +46,6 @@
 [submodule "guess-number"]
 	path = guess-number
 	url = https://github.com/vsepohui/guess-number.git
-[submodule "Hacker"]
-	path = Hacker
-	url = https://github.com/vsepohui/Hacker.git
 [submodule "jml"]
 	path = jml
 	url = https://github.com/vsepohui/jml.git
