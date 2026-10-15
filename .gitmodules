@@ -166,3 +166,9 @@
 [submodule "piped"]
 	path = piped
 	url = git@github.com:vsepohui/piped.git
+[submodule "Hacker-archive-001"]
+	path = Hacker-archive-001
+	url = https://github.com/vsepohui/Hacker-archive-001
+[submodule "Hacker-Projects"]
+	path = Hacker-Projects
+	url = https://github.com/vsepohui/Hacker-Projects
