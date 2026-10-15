@@ -169,3 +169,6 @@
 [submodule "Hacker-Projects"]
 	path = Hacker-Projects
 	url = https://github.com/vsepohui/Hacker-Projects
+[submodule "Hacker"]
+	path = Hacker
+	url = https://github.com/vsepohui/Hacker
