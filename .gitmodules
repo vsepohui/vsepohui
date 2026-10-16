@@ -172,3 +172,6 @@
 [submodule "Hacker"]
 	path = Hacker
 	url = https://github.com/vsepohui/Hacker
+[submodule "vsepohui.ru"]
+	path = vsepohui.ru
+	url = https://github.com/vsepohui/vsepohui.ru.git
