@@ -175,3 +175,6 @@
 [submodule "vsepohui.ru"]
 	path = vsepohui.ru
 	url = https://github.com/vsepohui/vsepohui.ru.git
+[submodule "happy-buddha"]
+	path = happy-buddha
+	url = https://github.com/vsepohui/happy-buddha.git
