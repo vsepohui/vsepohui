@@ -178,3 +178,6 @@
 [submodule "crypted-note"]
 	path = crypted-note
 	url = https://github.com/vsepohui/crypted-note
+[submodule "install-pkg"]
+	path = install-pkg
+	url = https://github.com/vsepohui/install-pkg
