@@ -172,3 +172,9 @@
 [submodule "happy-buddha"]
 	path = happy-buddha
 	url = https://github.com/vsepohui/happy-buddha.git
+[submodule "Sub-Daemon"]
+	path = Sub-Daemon
+	url = https://github.com/vsepohui/Sub-Daemon
+[submodule "crypted-note"]
+	path = crypted-note
+	url = https://github.com/vsepohui/crypted-note
