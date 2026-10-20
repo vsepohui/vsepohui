@@ -25,9 +25,6 @@
 [submodule "counter"]
 	path = counter
 	url = https://github.com/vsepohui/counter.git
-[submodule "Crypted-Note"]
-	path = Crypted-Note
-	url = https://github.com/vsepohui/Crypted-Note.git
 [submodule "Crypter"]
 	path = Crypter
 	url = https://github.com/vsepohui/Crypter.git
@@ -130,9 +127,6 @@
 [submodule "Strong-Random"]
 	path = Strong-Random
 	url = https://github.com/vsepohui/Strong-Random.git
-[submodule "sub-daemon"]
-	path = sub-daemon
-	url = https://github.com/vsepohui/sub-daemon.git
 [submodule "true-the-book"]
 	path = true-the-book
 	url = https://github.com/vsepohui/true-the-book.git
