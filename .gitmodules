@@ -58,9 +58,6 @@
 [submodule "kosherny-dump"]
 	path = kosherny-dump
 	url = https://github.com/vsepohui/kosherny-dump.git
-[submodule "libcrypter"]
-	path = libcrypter
-	url = https://github.com/vsepohui/libcrypter.git
 [submodule "librandom--"]
 	path = librandom--
 	url = https://github.com/vsepohui/librandom--.git
