@@ -181,3 +181,6 @@
 [submodule "libcrypter--"]
 	path = libcrypter--
 	url = git@github.com:vsepohui/libcrypter--.git
+[submodule "Crypter-Tools"]
+	path = Crypter-Tools
+	url = git@github.com:vsepohui/Crypter-Tools.git
