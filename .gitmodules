@@ -178,3 +178,6 @@
 [submodule "install-pkg"]
 	path = install-pkg
 	url = https://github.com/vsepohui/install-pkg
+[submodule "libcrypter--"]
+	path = libcrypter--
+	url = git@github.com:vsepohui/libcrypter--.git
